@@ -1,0 +1,15 @@
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\bin\Debug\net6.0\tcAlgoritması.exe
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\bin\Debug\net6.0\tcAlgoritması.deps.json
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\bin\Debug\net6.0\tcAlgoritması.runtimeconfig.json
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\bin\Debug\net6.0\tcAlgoritması.dll
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\bin\Debug\net6.0\tcAlgoritması.pdb
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\obj\Debug\net6.0\tcAlgoritması.csproj.AssemblyReference.cache
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\obj\Debug\net6.0\tcAlgoritması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\obj\Debug\net6.0\tcAlgoritması.AssemblyInfoInputs.cache
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\obj\Debug\net6.0\tcAlgoritması.AssemblyInfo.cs
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\obj\Debug\net6.0\tcAlgoritması.csproj.CoreCompileInputs.cache
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\obj\Debug\net6.0\tcAlgoritması.dll
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\obj\Debug\net6.0\refint\tcAlgoritması.dll
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\obj\Debug\net6.0\tcAlgoritması.pdb
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\obj\Debug\net6.0\tcAlgoritması.genruntimeconfig.cache
+C:\Users\yvzsy\source\repos\tcAlgoritması\tcAlgoritması\obj\Debug\net6.0\ref\tcAlgoritması.dll
